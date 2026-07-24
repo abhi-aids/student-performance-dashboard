@@ -1,6 +1,7 @@
 # 🎓 Student Performance Analytics Dashboard
 
 An end-to-end data analytics project: synthetic data generation → exploratory data analysis → interactive dashboard → a baseline ML model, built with **Python, Pandas, Plotly, Streamlit, and scikit-learn**.
+![Dashboard Preview](visuals/dashboard_preview_overview.png)
 
 ## 📌 What this project does
 
